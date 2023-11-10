@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task5_agecalculator/static/css/main.e6c13ad2.css",
+    "main.js": "/task5_agecalculator/static/js/main.6c2457ca.js",
+    "static/js/787.f1978768.chunk.js": "/task5_agecalculator/static/js/787.f1978768.chunk.js",
+    "index.html": "/task5_agecalculator/index.html",
+    "main.e6c13ad2.css.map": "/task5_agecalculator/static/css/main.e6c13ad2.css.map",
+    "main.6c2457ca.js.map": "/task5_agecalculator/static/js/main.6c2457ca.js.map",
+    "787.f1978768.chunk.js.map": "/task5_agecalculator/static/js/787.f1978768.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6c2457ca.js"
+  ]
+}
